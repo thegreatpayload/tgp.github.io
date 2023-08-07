@@ -74,11 +74,3 @@ background-size: cover;
   padding: 20px;
   text-align: center;
 }
-.hide {
-  display: none;
-}
-
-.myDIV:hover + .hide {
-  display: block;
-  color: red;
-}

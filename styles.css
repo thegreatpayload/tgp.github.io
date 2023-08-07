@@ -78,6 +78,7 @@ background-size: cover;
   width: 90%;
   max-width: 768px;
   text-align: center;
+  font-size: 30px;
 }
 .cd-intro {
   margin: 4em auto;

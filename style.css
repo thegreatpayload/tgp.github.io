@@ -86,3 +86,31 @@ background-size: cover;
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+.cd-intro {
+  width: 90%;
+  max-width: 768px;
+  text-align: center;
+}
+.cd-intro {
+  margin: 4em auto;
+}
+@media only screen and (min-width: 768px) {
+  .cd-intro {
+    margin: 5em auto;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  .cd-intro {
+    margin: 6em auto;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .cd-intro {
+    margin: 5em auto;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  .cd-intro {
+    margin: 6em auto;
+  }
+}

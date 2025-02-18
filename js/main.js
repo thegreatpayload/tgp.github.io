@@ -151,4 +151,5 @@ jQuery(document).ready(function($){
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
+	(function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/P-A6073710-4be0-48f8-a11e-60606934c9fd1.js','script','impactStat',document,window);impactStat('transformLinks');impactStat('trackImpression');
 });
